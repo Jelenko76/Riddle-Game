@@ -1,5 +1,13 @@
 # Riddle Game
 
+ Welcome to the Riddle Game! This is a fun and engaging game that challenges your wit and cunning by presenting a series of riddles for you to solve. The game is designed to provide entertainment and mental stimulation, making it an ideal choice for people of all ages and skill levels.
+
+The Riddle Game is an interactive and fully responsive application that allows you to play on any device, anywhere and anytime. With a simple and intuitive interface, the game is easy to navigate, and you can start playing right away. The game keeps track of your score and provides hints to help you solve challenging riddles.
+
+Whether you are looking for a mental workout or just a fun pastime, the Riddle Game is perfect for you. With a wide range of riddles to solve and an easy-to-use interface, you'll never get bored playing this game. So, put your thinking caps on and get ready to test your skills with the Riddle Game!
+
+
+
 ### Can you solve these riddles to win the game?
 In this game, you'll face a series of riddles that will test your wit and cunning. Each riddle is defined in an array along with hints and answers. Your goal is to answer as many riddles as you can correctly to win the game.
 
@@ -63,7 +71,7 @@ The live link can be found here - https://jelenko76.github.io/Riddle-Game/
 
 ## Credits 
 
-Some code from the love running and the love running readmefile.
+Some from the love running readmefile.
 Used some help from the www3 school.
 
 ## Now, it's time to put your thinking caps on and solve the riddles! Good luck, and have fun!
